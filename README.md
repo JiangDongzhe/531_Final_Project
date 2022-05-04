@@ -1,8 +1,8 @@
 # 531_Final_Project
-project of DSCI 531
 algorithm_analysis.py
 Run the python file will print all the algorithm result.
 
+data analysis.ipynb draws all charts
 
 Data is too big to upload github
 This is the drive link to google drive
