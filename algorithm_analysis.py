@@ -95,3 +95,5 @@ print("statistical parity:",stat_parity(res,np.array(test_data.iloc[:,1])))
 #     if r>0.5:
 #         print(r)
 print("equalized opportunity: ",eq_oppo(res,np.array(test_data.iloc[:,1]),np.array(test_data.iloc[:,0])))
+print("试试github")
+print(100)
